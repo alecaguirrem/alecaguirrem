@@ -1,8 +1,14 @@
 # Hi my name is Alejandro Aguirre 👋
 
+This is just an example # 1
+
 ## I live in Nuevo León, México. I'm 34 (almost 35) years old.
 
+And this is the next sub example # 2
+
 ### And i am currently aspiring to become a Data Scientist in the next months.
+
+And finally a third example # 3
 <!--
 **alecaguirrem/alecaguirrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
