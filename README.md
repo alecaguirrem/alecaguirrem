@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi my name is Alejandro Aguirre 👋
 
+## I live in Nuevo León, México. I'm 34 (almost 35) years old.
+
+### And i am currently aspiring to become a Data Scientist in the next months.
 <!--
 **alecaguirrem/alecaguirrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
