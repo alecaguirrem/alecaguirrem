@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Círculo de fondo (gris claro) -->
+  <circle cx="60" cy="60" r="54" stroke="#007BFF" stroke-width="12" fill="none"/>
+  
+  <!-- Círculo de progreso (verde) -->
+  <circle cx="60" cy="60" r="54" stroke="#4caf50" stroke-width="12" fill="none"
+    stroke-dasharray="339.29"
+    stroke-dashoffset="169.64"
+    stroke-linecap="round"
+    transform="rotate(-90 60 60)" />
+  
+  <!-- Texto de porcentaje -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="24" fill="#4caf50">50%</text>
+</svg>
