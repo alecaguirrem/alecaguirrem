@@ -1,6 +1,6 @@
 <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
   <!-- Círculo de fondo (gris claro) -->
-  <circle cx="60" cy="60" r="54" stroke="#007BFF" stroke-width="12" fill="none"/>
+  <circle cx="60" cy="60" r="54" stroke="#4F4F4F" stroke-width="12" fill="none"/>
   
   <!-- Círculo de progreso (verde) -->
   <circle cx="60" cy="60" r="54" stroke="#4caf50" stroke-width="12" fill="none"
