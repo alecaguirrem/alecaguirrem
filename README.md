@@ -24,7 +24,7 @@ On this GitHub profile, you’ll find all the projects I completed throughout ea
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alecaguirrem&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="425" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecaguirrem&theme=blueberry&hide_border=true" width="440"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecaguirrem&theme=blueberry&hide_border=true" width="450"/>
 </p>
 
 ### Let's conect:
