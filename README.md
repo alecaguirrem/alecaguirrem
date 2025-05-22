@@ -9,7 +9,7 @@ I’m a mechanical engineer who recently discovered a particular interest in the
 On this GitHub profile, you’ll find all the projects I completed throughout each sprint (or level) of the bootcamp. I’m open to new opportunities and always eager to learn new things and apply what I’ve already learned.
 </div>
 
-### Lenguajes y herramientas 🛠️:
+### Languages & tools 🛠️:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
