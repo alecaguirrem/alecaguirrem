@@ -3,7 +3,7 @@
 # <ins>Hey there! Welcome to my GitHub👋🙂.</ins>
 </div>
 <div id="header" style="text-align: justify;">
-More about me:
+More about me:<br/>
 I’m a mechanical engineer who recently discovered a particular interest in the world of data. A few months ago, I joined a Data Science bootcamp and decided to start this journey to learn more about Python, SQL, APIs, JSON, data wrangling, machine learning, and other topics related to the tech world.<br/>
 <br/>
 On this GitHub profile, you’ll find all the projects I completed throughout each sprint (or level) of the bootcamp. I’m open to new opportunities and always eager to learn new things and apply what I’ve already learned.
