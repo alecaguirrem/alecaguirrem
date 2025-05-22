@@ -22,9 +22,11 @@ On this GitHub profile, you’ll find all the projects I completed throughout ea
 
 ### My GitHub Stats 📈:
 
-![alecaguirrem's Stats](https://github-readme-stats.vercel.app/api?username=alecaguirrem&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![alecaguirrem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alecaguirrem&theme=blueberry&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecaguirrem&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alecaguirrem&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="425" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecaguirrem&theme=blueberry&hide_border=true" width="450"/>
+</p>
+
 
 ###
 
