@@ -20,6 +20,22 @@ On this GitHub profile, you’ll find all the projects I completed throughout ea
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-pink?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+### Technical Projects and brief description: 
+
+- [x] **Sprint 1.** 
+- [x] **Sprint 2.**
+- [x] **Sprint 3.**
+- [x] **Sprint 4.** 
+- [x] **Sprint 5.**
+<details> 
+  <summary>See more...</summary>
+  
+- [x] **Sprint 6.**
+- [x] **Sprint 7.** 
+- [x] **Sprint 8.**
+- [ ] **Sprint 9.** On progress...
+</details>
+
 ### My GitHub Stats 📈:
 
 <p align="center">
