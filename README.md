@@ -22,17 +22,17 @@ On this GitHub profile, you’ll find all the projects I completed throughout ea
 
 ### Technical Projects and brief description: 
 
-- [x] **Sprint 1.** 
-- [x] **Sprint 2.**
-- [x] **Sprint 3.**
-- [x] **Sprint 4.** 
-- [x] **Sprint 5.**
+- [x] **Sprint 1.** Evaluate a small amount of data and prepare it for later analysis. (strip,replace,sum, etc) 
+- [x] **Sprint 2.** Use previous data and apply distinct functions (def, for, while, if, etc.)
+- [x] **Sprint 3.** Compare data of two cities and prove the music activity is the same for both cities.
+- [x] **Sprint 4.** Evaluate, graph, and calculate different parameters to make decisions based on users behavior.
+- [x] **Sprint 5.** Compare two telephone services and take decisions for future marketing campaigns.
 <details> 
   <summary>See more...</summary>
   
-- [x] **Sprint 6.**
-- [x] **Sprint 7.** 
-- [x] **Sprint 8.**
+- [x] **Sprint 6.** As part of an online video game company, you need to plan a campaign for the next year.
+- [x] **Sprint 7.** Based on used vehicles data for sell, develop a web app and add any type of visualization.
+- [x] **Sprint 8.** Zuber is a new taxi company, using SQL we obtain data from other taxi companies and prove distinct hypothesis.
 - [ ] **Sprint 9.** On progress...
 </details>
 
