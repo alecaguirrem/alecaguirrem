@@ -47,7 +47,7 @@ On this GitHub profile, you’ll find all the projects I completed throughout ea
 ### Bootcamp progress :
 <div id="header" align="center">
 <br/>
-<img src="<img src="https://raw.githubusercontent.com/alecAGUIRREM/ALECAGUIRREM/main/progress-54.svg" width="120" />
+<img src="https://raw.githubusercontent.com/alecAGUIRREM/ALECAGUIRREM/main/progress-54.svg" width="120" />
 </div>
 
 ### Let's conect:
