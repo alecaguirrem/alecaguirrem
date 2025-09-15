@@ -33,7 +33,16 @@ On this GitHub profile, you’ll find all the projects I completed throughout ea
 - [x] **Sprint 6.** As part of an online video game company, you need to plan a campaign for the next year.
 - [x] **Sprint 7.** Based on used vehicles data for sell, develop a web app and add any type of visualization.
 - [x] **Sprint 8.** Zuber is a new taxi company, using SQL we obtain data from other taxi companies and prove distinct hypothesis.
-- [ ] **Sprint 9.** On progress...
+- [x] **Sprint 9.** Megaline is a phone/internet company and wants to use ML to analyze their clients behavior and asign the best plan for them.
+- [x] **Sprint 10.** Beta Bank wants to retain the clients they still have and using ML discover potential clients who will leave the company.
+- [x] **Sprint 11.** OilyGiant has 3 oil potential places to invest, using Linear Regression i discovered the most profitable places. 
+- [x] **Sprint 12.** Zyfra a heavy machinery company who wants to predict the amount of gold after different stages on their metal primary mater.
+- [x] **Sprint 13.** Insurance company Sure Tomorrow wants to solve several tasks with the help of machine learning and asks you to evaluate this possibility.
+- [x] **Sprint 14.** Rusty Bargain wants to develop an app that calculates the value of their users cars using a used car dataset.
+- [x] **Sprint 15.** Sweet Lift Taxi has collected historical data on taxi requests at airports, and we need to predict the number of taxi requests for the next hour.
+- [x] **Sprint 16.** Film Junky Union, a new community for classic films, aims to train a model to automatically detect negative reviews.
+- [x] **Sprint 17.** Good Seed a convenience store and wants to use their cameras to detect if someone is old enough to buy alcohol.
+- [x] **Sprint 18.** Interconnect would like to be able to predict its customer churn rate. 
 </details>
 
 ### My GitHub Stats 📈:
