@@ -4,7 +4,8 @@
 </div>
 <div id="header" style="text-align: justify;">
 More about me:<br/>
-I’m a mechanical engineer who recently discovered a particular interest in the world of data. A few months ago, I joined a Data Science bootcamp and decided to start this journey to learn more about Python, SQL, APIs, JSON, data wrangling, machine learning, and other topics related to the tech world.<br/>
+I’m a mechanical engineer who recently discovered a particular interest in the world of data. I am currently looking to transition into the tech world. I have completed a bootcamp to become a Data Scientist, where I learned different programming languages such as Python and SQL. I have worked on several projects that involved handling missing and duplicate data, data cleaning, hypothesis testing, data visualization, and also some work with JSON, HTML, and APIs for web scraping. I also used Machine Learning methods for making predictions, evaluating metrics, and have basic knowledge of NLP and image classification using Keras from TensorFlow.
+
 <br/>
 On this GitHub profile, you’ll find all the projects I completed throughout each sprint (or level) of the bootcamp. I’m open to new opportunities and always eager to learn new things and apply what I’ve already learned.
 </div>
