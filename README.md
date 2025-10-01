@@ -20,12 +20,12 @@ On this GitHub profile, you’ll find all the projects I completed throughout ea
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-pink?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/JSON-red?style=for-the-badge&logo=json&logoColor=white)
-![Stadistics](https://img.shields.io/badge/Data_Wrangling-pink?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge&logo=json&logoColor=white)
+![Stadistics](https://img.shields.io/badge/Stadistics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Technical Projects and brief description: 
 
